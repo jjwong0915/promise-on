@@ -1,0 +1,32 @@
+{
+  "name": "promise-on",
+  "version": "0.1.0",
+  "description": "Using EventEmitters with Promise-like Interface",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjwong0915/promise-on.git"
+  },
+  "keywords": [
+    "promise",
+    "events"
+  ],
+  "author": "JJ Wong <jjwong0915@gmail.com> (https://github.com/jjwong0915/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjwong0915/promise-on/issues"
+  },
+  "homepage": "https://github.com/jjwong0915/promise-on#readme"
+}
